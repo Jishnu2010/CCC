@@ -1,0 +1,28 @@
+a{
+text-decoration:none;
+}
+nav a{
+padding-left:10px;
+padding-right: 10px;
+color: red;
+font-size: 25px;
+}
+nav{
+background-color:yellow;
+border: 3px dotted tomato;
+padding-top: 10px;
+}
+/*Navbar complete*/
+body{
+background-color:lightpink;
+}
+.p{
+color:blue;
+font-size: 10px;
+}
+.h1{
+color:red ;
+}
+.info{
+color:#a633ae ;
+}
